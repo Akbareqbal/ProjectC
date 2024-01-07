@@ -10,5 +10,8 @@ public class DemoC {
 		System.out.println("GitHub");
 		
 	}
+	public static void subtract(int a, int b){
+		System.out.println(a-b);
 
+}
 }
